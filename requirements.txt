@@ -1,7 +1,5 @@
-scikit-learn
-tensorflow
-keras
-opencv-python-headless
 streamlit
+tensorflow
+opencv-python-headless
 numpy
--e .
+scikit-learn
